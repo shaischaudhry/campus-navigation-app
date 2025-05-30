@@ -149,4 +149,4 @@ This project is developed for educational purposes as part of a campus navigatio
 
 ---
 
-**Built with ❤️ for smarter campus navigation** 
+**Built with ❤️ for smarter campus navigation**
